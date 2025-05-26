@@ -6,6 +6,7 @@ function AboutPage() {
   return (
     <>
       <Navbar />
+      <p>Halo ges, welcom tu mai gais</p>
       <Footer />
     </>
   );
@@ -13,4 +14,3 @@ function AboutPage() {
 
 export default AboutPage;
 
-M Rafly Pratam
