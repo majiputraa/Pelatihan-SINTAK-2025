@@ -6,6 +6,7 @@ function AboutPage() {
   return (
     <>
       <Navbar />
+      <p>Hallo rafly</p>
       <Footer />
     </>
   );
