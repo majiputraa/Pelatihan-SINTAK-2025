@@ -6,10 +6,11 @@ function AboutPage() {
   return (
     <>
       <Navbar />
-      <p>Hallo rafly</p>
       <Footer />
     </>
   );
 }
 
 export default AboutPage;
+
+M Rafly Pratam
