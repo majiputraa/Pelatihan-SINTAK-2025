@@ -12,34 +12,34 @@ function ProductPage() {
         <h1 className="mb-10 font-bold text-3xl">Product Card</h1>
         <div className="flex gap-5 ">
           <ProductCard
-            foto="/Sumatra Mandheling.jpeg"
+            foto="/Sumatra Mandheling.jpg"
             judul="Sumatra Mandheling"
             asal="Aceh, North Sumatra"
           />
           <ProductCard
-            foto="/Java Preanger.jpeg"
+            foto="/Java Preanger.jpg"
             judul="Java Preanger"
             asal="West Java"
           />
           <ProductCard
-            foto="/Sumatra Mandheling.jpeg"
+            foto="/Sumatra Mandheling.jpg"
             judul="Sumatra Mandheling"
             asal="Aceh, North Sumatra"
           />
         </div>
         <div className="flex gap-5 my-10">
           <ProductCard
-            foto="/Java Preanger.jpeg"
+            foto="/Java Preanger.jpg"
             judul="Java Preanger"
             asal="West Java"
           />
           <ProductCard
-            foto="/Sumatra Mandheling.jpeg"
+            foto="/Sumatra Mandheling.jpg"
             judul="Sumatra Mandheling"
             asal="Aceh, North Sumatra"
           />
           <ProductCard
-            foto="/Java Preanger.jpeg"
+            foto="/Java Preanger.jpg"
             judul="Java Preanger"
             asal="West Java"
           />
