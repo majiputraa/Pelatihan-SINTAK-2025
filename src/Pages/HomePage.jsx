@@ -58,7 +58,7 @@ function Section2() {
       <div className="hero bg-base-200 h-[350px]">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
-            src="\Section2.jpg"
+            src="/Section2.jpg"
             className="max-w-sm rounded-lg shadow-2xl w-[7000px]"
           />
           <div>

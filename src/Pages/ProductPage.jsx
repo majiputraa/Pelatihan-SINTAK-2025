@@ -12,34 +12,34 @@ function ProductPage() {
         <h1 className="mb-10 font-bold text-3xl">Product Card</h1>
         <div className="flex gap-5 ">
           <ProductCard
-            foto="src\assets\Product\Sumatra Mandheling.jpeg"
+            foto="/Sumatra Mandheling.jpeg"
             judul="Sumatra Mandheling"
             asal="Aceh, North Sumatra"
           />
           <ProductCard
-            foto="src\assets\Product\Java Preanger.jpeg"
+            foto="/Java Preanger.jpeg"
             judul="Java Preanger"
             asal="West Java"
           />
           <ProductCard
-            foto="src\assets\Product\Sumatra Mandheling.jpeg"
+            foto="/Sumatra Mandheling.jpeg"
             judul="Sumatra Mandheling"
             asal="Aceh, North Sumatra"
           />
         </div>
         <div className="flex gap-5 my-10">
           <ProductCard
-            foto="src\assets\Product\Java Preanger.jpeg"
+            foto="/Java Preanger.jpeg"
             judul="Java Preanger"
             asal="West Java"
           />
           <ProductCard
-            foto="src\assets\Product\Sumatra Mandheling.jpeg"
+            foto="/Sumatra Mandheling.jpeg"
             judul="Sumatra Mandheling"
             asal="Aceh, North Sumatra"
           />
           <ProductCard
-            foto="src\assets\Product\Java Preanger.jpeg"
+            foto="/Java Preanger.jpeg"
             judul="Java Preanger"
             asal="West Java"
           />
@@ -58,7 +58,7 @@ function HeroSection() {
       <div
         className="hero h-[450px]"
         style={{
-          backgroundImage: "url(src/assets/KopiHeroSection.jpg)",
+          backgroundImage: "url(/KopiHeroSection.jpg)",
         }}
       >
         <div className="hero-overlay"></div>
